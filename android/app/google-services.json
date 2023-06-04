@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820238909648",
+    "project_id": "stories-cf533",
+    "storage_bucket": "stories-cf533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820238909648:android:d257ac9c516feb95bc9ed5",
+        "android_client_info": {
+          "package_name": "com.alikhanovv.stories_in_uzbek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820238909648-uld7f05knhpk9ldnc19l1hqmnncamhj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifNpD6wa4QFtxKkqF6W4s6V8DdDCU6Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820238909648-uld7f05knhpk9ldnc19l1hqmnncamhj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
